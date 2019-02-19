@@ -1,0 +1,10 @@
+C:\Users\k2m\Source\Repos\Clase2\EjemplosC2\EjemplosC2\obj\Debug\EjemplosC2.csprojResolveAssemblyReference.cache
+C:\Users\k2m\Source\Repos\Clase2\EjemplosC2\EjemplosC2\obj\Debug\EjemplosC2.Form1.resources
+C:\Users\k2m\Source\Repos\Clase2\EjemplosC2\EjemplosC2\obj\Debug\EjemplosC2.Properties.Resources.resources
+C:\Users\k2m\Source\Repos\Clase2\EjemplosC2\EjemplosC2\obj\Debug\EjemplosC2.csproj.GenerateResource.Cache
+C:\Users\k2m\Source\Repos\Clase2\EjemplosC2\EjemplosC2\obj\Debug\EjemplosC2.csproj.CoreCompileInputs.cache
+C:\Users\k2m\Source\Repos\Clase2\EjemplosC2\EjemplosC2\bin\Debug\EjemplosC2.exe.config
+C:\Users\k2m\Source\Repos\Clase2\EjemplosC2\EjemplosC2\bin\Debug\EjemplosC2.exe
+C:\Users\k2m\Source\Repos\Clase2\EjemplosC2\EjemplosC2\bin\Debug\EjemplosC2.pdb
+C:\Users\k2m\Source\Repos\Clase2\EjemplosC2\EjemplosC2\obj\Debug\EjemplosC2.exe
+C:\Users\k2m\Source\Repos\Clase2\EjemplosC2\EjemplosC2\obj\Debug\EjemplosC2.pdb
